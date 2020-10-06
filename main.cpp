@@ -15,6 +15,7 @@
 
 
 class myWindow : public cwc::glutWindow
+    //cmabio prueba
 {
 protected:
    cwc::glShaderManager SM;
